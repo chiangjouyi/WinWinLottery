@@ -1,0 +1,90 @@
+C:\Users\iii\Desktop\C#語言\button test\button test\bin\Debug\button test.exe.config
+C:\Users\iii\Desktop\C#語言\button test\button test\bin\Debug\button test.exe
+C:\Users\iii\Desktop\C#語言\button test\button test\bin\Debug\button test.pdb
+C:\Users\iii\Desktop\C#語言\button test\button test\obj\Debug\button test.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\C#語言\button test\button test\obj\Debug\button_test.Form1.resources
+C:\Users\iii\Desktop\C#語言\button test\button test\obj\Debug\button_test.Properties.Resources.resources
+C:\Users\iii\Desktop\C#語言\button test\button test\obj\Debug\button test.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\C#語言\button test\button test\obj\Debug\button test.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\C#語言\button test\button test\obj\Debug\button test.exe
+C:\Users\iii\Desktop\C#語言\button test\button test\obj\Debug\button test.pdb
+C:\Users\user\Desktop\button test\button test\bin\Debug\button test.exe.config
+C:\Users\user\Desktop\button test\button test\bin\Debug\button test.exe
+C:\Users\user\Desktop\button test\button test\bin\Debug\button test.pdb
+C:\Users\user\Desktop\button test\button test\obj\Debug\button test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\button test\button test\obj\Debug\button_test.Form1.resources
+C:\Users\user\Desktop\button test\button test\obj\Debug\button_test.Properties.Resources.resources
+C:\Users\user\Desktop\button test\button test\obj\Debug\button test.csproj.GenerateResource.cache
+C:\Users\user\Desktop\button test\button test\obj\Debug\button test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\button test\button test\obj\Debug\button test.exe
+C:\Users\user\Desktop\button test\button test\obj\Debug\button test.pdb
+F:\CS\button test\button test\bin\Debug\button test.exe.config
+F:\CS\button test\button test\bin\Debug\button test.exe
+F:\CS\button test\button test\bin\Debug\button test.pdb
+F:\CS\button test\button test\obj\Debug\button test.csprojResolveAssemblyReference.cache
+F:\CS\button test\button test\obj\Debug\button_test.Form1.resources
+F:\CS\button test\button test\obj\Debug\button_test.Properties.Resources.resources
+F:\CS\button test\button test\obj\Debug\button test.csproj.GenerateResource.cache
+F:\CS\button test\button test\obj\Debug\button test.csproj.CoreCompileInputs.cache
+F:\CS\button test\button test\obj\Debug\button test.exe
+F:\CS\button test\button test\obj\Debug\button test.pdb
+C:\Users\user\Desktop\loterrytest\button test\bin\Debug\button test.exe.config
+C:\Users\user\Desktop\loterrytest\button test\bin\Debug\button test.exe
+C:\Users\user\Desktop\loterrytest\button test\bin\Debug\button test.pdb
+C:\Users\user\Desktop\loterrytest\button test\obj\Debug\button test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\loterrytest\button test\obj\Debug\button_test.Form1.resources
+C:\Users\user\Desktop\loterrytest\button test\obj\Debug\button_test.Properties.Resources.resources
+C:\Users\user\Desktop\loterrytest\button test\obj\Debug\button test.csproj.GenerateResource.cache
+C:\Users\user\Desktop\loterrytest\button test\obj\Debug\button test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\loterrytest\button test\obj\Debug\button test.exe
+C:\Users\user\Desktop\loterrytest\button test\obj\Debug\button test.pdb
+F:\CS\作業5_C#\button test\bin\Debug\button test.exe.config
+F:\CS\作業5_C#\button test\bin\Debug\button test.exe
+F:\CS\作業5_C#\button test\bin\Debug\button test.pdb
+F:\CS\作業5_C#\button test\obj\Debug\button test.csprojResolveAssemblyReference.cache
+F:\CS\作業5_C#\button test\obj\Debug\button_test.Form1.resources
+F:\CS\作業5_C#\button test\obj\Debug\button_test.Properties.Resources.resources
+F:\CS\作業5_C#\button test\obj\Debug\button test.csproj.GenerateResource.cache
+F:\CS\作業5_C#\button test\obj\Debug\button test.csproj.CoreCompileInputs.cache
+F:\CS\作業5_C#\button test\obj\Debug\button test.exe
+F:\CS\作業5_C#\button test\obj\Debug\button test.pdb
+C:\Users\user\Desktop\作業5_C#\button test\obj\Debug\button test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\作業5_C#\button test\obj\Debug\button_test.Form1.resources
+C:\Users\user\Desktop\作業5_C#\button test\obj\Debug\button_test.Properties.Resources.resources
+C:\Users\user\Desktop\作業5_C#\button test\obj\Debug\button test.csproj.GenerateResource.cache
+C:\Users\user\Desktop\作業5_C#\button test\obj\Debug\button test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\作業5_C#\button test\obj\Debug\button test.exe
+C:\Users\user\Desktop\作業5_C#\button test\obj\Debug\button test.pdb
+C:\Users\user\Desktop\作業5_C#\button test\bin\Debug\button test.exe.config
+C:\Users\user\Desktop\作業5_C#\button test\bin\Debug\button test.exe
+C:\Users\user\Desktop\作業5_C#\button test\bin\Debug\button test.pdb
+C:\Users\user\Desktop\作業5_C# - 跑馬燈測試\button test\bin\Debug\button test.exe.config
+C:\Users\user\Desktop\作業5_C# - 跑馬燈測試\button test\bin\Debug\button test.exe
+C:\Users\user\Desktop\作業5_C# - 跑馬燈測試\button test\bin\Debug\button test.pdb
+C:\Users\user\Desktop\作業5_C# - 跑馬燈測試\button test\obj\Debug\button test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\作業5_C# - 跑馬燈測試\button test\obj\Debug\button_test.Form1.resources
+C:\Users\user\Desktop\作業5_C# - 跑馬燈測試\button test\obj\Debug\button_test.Properties.Resources.resources
+C:\Users\user\Desktop\作業5_C# - 跑馬燈測試\button test\obj\Debug\button test.csproj.GenerateResource.cache
+C:\Users\user\Desktop\作業5_C# - 跑馬燈測試\button test\obj\Debug\button test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\作業5_C# - 跑馬燈測試\button test\obj\Debug\button test.exe
+C:\Users\user\Desktop\作業5_C# - 跑馬燈測試\button test\obj\Debug\button test.pdb
+C:\Users\iii\Desktop\作業5_C# - Final(排版尚未完成)\button test\bin\Debug\button test.exe.config
+C:\Users\iii\Desktop\作業5_C# - Final(排版尚未完成)\button test\bin\Debug\button test.exe
+C:\Users\iii\Desktop\作業5_C# - Final(排版尚未完成)\button test\bin\Debug\button test.pdb
+C:\Users\iii\Desktop\作業5_C# - Final(排版尚未完成)\button test\obj\Debug\button test.csprojResolveAssemblyReference.cache
+C:\Users\iii\Desktop\作業5_C# - Final(排版尚未完成)\button test\obj\Debug\button_test.Form1.resources
+C:\Users\iii\Desktop\作業5_C# - Final(排版尚未完成)\button test\obj\Debug\button_test.Properties.Resources.resources
+C:\Users\iii\Desktop\作業5_C# - Final(排版尚未完成)\button test\obj\Debug\button test.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\作業5_C# - Final(排版尚未完成)\button test\obj\Debug\button test.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\作業5_C# - Final(排版尚未完成)\button test\obj\Debug\button test.exe
+C:\Users\iii\Desktop\作業5_C# - Final(排版尚未完成)\button test\obj\Debug\button test.pdb
+\\CR4-Teacher\C#語言作業\江柔誼\作業5_C#\button test\bin\Debug\button test.exe.config
+\\CR4-Teacher\C#語言作業\江柔誼\作業5_C#\button test\bin\Debug\button test.exe
+\\CR4-Teacher\C#語言作業\江柔誼\作業5_C#\button test\bin\Debug\button test.pdb
+\\CR4-Teacher\C#語言作業\江柔誼\作業5_C#\button test\obj\Debug\button test.csprojAssemblyReference.cache
+\\CR4-Teacher\C#語言作業\江柔誼\作業5_C#\button test\obj\Debug\button_test.Form1.resources
+\\CR4-Teacher\C#語言作業\江柔誼\作業5_C#\button test\obj\Debug\button_test.Properties.Resources.resources
+\\CR4-Teacher\C#語言作業\江柔誼\作業5_C#\button test\obj\Debug\button test.csproj.GenerateResource.cache
+\\CR4-Teacher\C#語言作業\江柔誼\作業5_C#\button test\obj\Debug\button test.csproj.CoreCompileInputs.cache
+\\CR4-Teacher\C#語言作業\江柔誼\作業5_C#\button test\obj\Debug\button test.exe
+\\CR4-Teacher\C#語言作業\江柔誼\作業5_C#\button test\obj\Debug\button test.pdb
